@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The funeral of the good old cause, or, A covenant of both houses of Parliament against the Solemn League and Covenant</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40735</idno>
+            <idno type="STC">Wing F2538</idno>
+            <idno type="STC">ESTC R17653</idno>
+            <idno type="EEBO-CITATION">12866557</idno>
+            <idno type="OCLC">ocm 12866557</idno>
+            <idno type="VID">94741</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 380:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The funeral of the good old cause, or, A covenant of both houses of Parliament against the Solemn League and Covenant</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>A speech given in the House of Commons in opposition to the burning of the Solemn League and Covenant.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94741:1"/>
+            <p>THE FUNERAL OF THE Good old Cauſe: OR, A <hi>Covenant</hi> of <hi>Both Houſes of Parliament</hi> Againſt The <hi>Solemn LEAGUE</hi> and <hi>COVENANT.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device, flower encircled by motto</figDesc>
+               <p>HEB DDIM HEB DDIEV</p>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Royſton,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:94741:2"/>
+            <pb n="3" facs="tcp:94741:2"/>
+            <head>
+               <figure/>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 20. Maii 1661.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords in Parliament aſſembled, having con<g ref="char:EOLunhyphen"/>ſidered of a Paper ſent unto them from the Houſe of Commons, for burning of the Inſtru<g ref="char:EOLhyphen"/>ment or Writing, called, <hi>The Solemn League or Covenant,</hi> by the hands of the common Hangman; Do Order, That the ſaid Inſtrument or Writing, called, <hi>The Solemn League and Covenant,</hi> be burned by the hands of the Common Hangman in the <hi>New Palace</hi> at <hi>Weſtminſter,</hi> in <hi>Cheapſide,</hi> and before the <hi>Old Exchange,</hi> on Wedneſday the Twenty ſecond of this inſtant <hi>May.</hi> And that the ſaid Co<g ref="char:EOLhyphen"/>venant be forthwith taken off the Record in the Houſe of Yeers, and in all other Courts and places where the ſame is recorded; And that all Copies thereof be taken down out of all Churches, Chappels, and other publick places in <hi>England</hi> and <hi>Wales,</hi> and in the Town of <hi>Barwick</hi> upon <hi>Tweede</hi> where the ſame are ſet up.</p>
+            <closer>
+               <signed>Jo. Browne Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <p>BEfore this Order paſſed the Lords Houſe, the manner of giving ſentence upon the Covenant took up much debate in both Houſes. Many learned Speeches were made againſt it, very little ſaid in
+<pb n="4" facs="tcp:94741:3"/> defence of it. It will be needleſs to give an account of all the Motions made before the Condemnation of the Covenant: Some being for the ſending the Baſtard<g ref="char:EOLhyphen"/>child to his own Father, <hi>Scotland;</hi> Others, for the hanging it up upon all the Gallowses, and Market<g ref="char:EOLhyphen"/>places within the Cities and Towns of <hi>England.</hi> I ſhall only give the Reader an account of one Speech made by a Member, in theſe following words, as it was delivered unto me.</p>
+            <div type="speech">
+               <opener>
+                  <salute>Mr. Speaker,</salute>
+               </opener>
+               <p>I Perceive you are now <hi>Covenanting</hi> againſt the <hi>Covenant;</hi> entring into a new one, in proteſting the <hi>deſtruction</hi> of the <hi>Old.</hi> He would have deſerv'd the name of a bold <hi>Brittain,</hi> who ſome years paſt, had made as many <hi>Objections</hi> againſt the <hi>Covenant,</hi> as have been now deliver<g ref="char:EOLhyphen"/>ed in this <hi>Houſe:</hi> And poſſibly he may be <hi>con<g ref="char:EOLhyphen"/>demned</hi> with it, who ſhall <hi>plead</hi> any thing for it. However, <hi>Sir,</hi> Give me leave to take the freedom of a <hi>true-born Engliſh-man,</hi> who conceive my ſelf <hi>choſe</hi> by my <hi>Countrey,</hi> to <hi>expreſs</hi> my <hi>ſenſe</hi> freely in <hi>Parliament.</hi> Sir, to ſhew you how <hi>un-intereſſed</hi> a perſon I am to <hi>ſpeak</hi> in this <hi>buſineſs,</hi> let me <hi>aſſure</hi> you, I never took the <hi>Covenant,</hi> nor ever ap<g ref="char:EOLhyphen"/>proved
+<pb n="5" facs="tcp:94741:3"/> the <hi>preſsing</hi> of it upon others. Had there appeared no other <hi>exceptions</hi> againſt it, I had cauſe enough to diſlike the <hi>impoſing</hi> it upon the <hi>Kingdom,</hi> by the ſole <hi>Authority</hi> of an <hi>Ordinance</hi> of <hi>Parliament;</hi> a <hi>Preſident</hi> without a <hi>Preſident</hi> in this caſe. <hi>Oaths</hi> are not to be <hi>dallied with,</hi> but to be eſteemed <hi>Sacred;</hi> not to be <hi>allowed</hi> of without the <hi>Authentick warrant</hi> of an <hi>Act</hi> of <hi>Parliament.</hi> Sir, If we look on the <hi>Original Deſigners &amp; Con<g ref="char:EOLhyphen"/>trivers</hi> of the <hi>Covenant,</hi> we ſhall without much <hi>diſpute</hi> fix it on the <hi>Scots,</hi> (poſſibly with the <hi>con<g ref="char:EOLhyphen"/>ſent</hi> of ſome <hi>Grandees</hi> here). Out of <hi>Scotland</hi> it dame. The <hi>ends</hi> of their <hi>preſsing</hi> it upon us is <hi>ob<g ref="char:EOLhyphen"/>vious;</hi> To <hi>engage</hi> us with them, in the <hi>continu<g ref="char:EOLhyphen"/>ance</hi> of a <hi>ſeditious, factious,</hi> and (in my ſenſe) <hi>re<g ref="char:EOLhyphen"/>bellious War,</hi> againſt our lawful <hi>Soveraign</hi> his late <hi>Majeſty,</hi> that <hi>bleſſed Saint</hi> and <hi>Martyr,</hi> now with <hi>God:</hi> (whoſe <hi>Memory</hi> cannot be too much <hi>ho<g ref="char:EOLhyphen"/>noured</hi> by all good men). Their <hi>deſign</hi> being to <hi>diminiſh</hi> not only the <hi>Greatneſs,</hi> and <hi>limit</hi> the <hi>Power</hi> of <hi>Eccleſiaſtical Perſons,</hi> but wholly to <hi>ex<g ref="char:EOLhyphen"/>tirpate root</hi> and <hi>branch,</hi> that moſt <hi>Ancient Go<g ref="char:EOLhyphen"/>vernment</hi> of the <hi>Church</hi> by <hi>Biſhops,</hi> under whoſe <hi>umbrage</hi> and <hi>protection</hi> our <hi>Anceſtors lived</hi> to ſee ſo many <hi>happy dayes;</hi> and, it was juſtly feared,
+<pb n="6" facs="tcp:94741:4"/> by endevouring irreligiouſly to <hi>aboliſh</hi> that <hi>holy Order</hi> (now ſo happily <hi>reſtored</hi>), they intended to make a <hi>prey</hi> of their <hi>Lands,</hi> which were af<g ref="char:EOLhyphen"/>terwards <hi>ſold</hi> and <hi>divided</hi> by <hi>ſacrilegious hands;</hi> and by the ſad conſequence of ſuch proceed<g ref="char:EOLhyphen"/>ings, His <hi>Majeſties juſt Prerogative</hi> was certain<g ref="char:EOLhyphen"/>ly <hi>leſſened.</hi> At the <hi>end</hi> of the <hi>War,</hi> when God (for the <hi>puniſhment</hi> of the <hi>ſins</hi> of the <hi>Nation</hi>) had given <hi>victory</hi> to the <hi>Parliaments Forces</hi> over his <hi>Majeſties,</hi> thoſe then in <hi>power</hi> preſſed the taking of it upon the <hi>Cavaliers,</hi> who were to <hi>compound;</hi> and <hi>forced</hi> them (as they ſince con<g ref="char:EOLhyphen"/>feſſed) to <hi>take</hi> it againſt their <hi>Conſciences,</hi> al<g ref="char:EOLhyphen"/>leadging with more <hi>wit</hi> then <hi>piety,</hi> that they had rather <hi>truſt God</hi> with their <hi>Souls,</hi> then the <hi>Parliament</hi> with their <hi>Eſtates:</hi> In caſe they <hi>re<g ref="char:EOLhyphen"/>fuſed,</hi> they were not admitted to <hi>compound;</hi> but, I hope upon their <hi>repentance,</hi> God in <hi>mercy</hi> has <hi>pardoned</hi> them, their <hi>taking</hi> the <hi>Covenant,</hi> and their wicked <hi>Declaration,</hi> when they <hi>took</hi> it. I believe, Sir, the <hi>Covenant</hi> has occaſioned much <hi>miſchief</hi> and <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nconvenience</hi> to theſe <hi>Nations:</hi> But, Sir, give me leave to obſerve this to you, and ſo far to be patiently <hi>heard</hi> in the behalf of the <hi>Co<g ref="char:EOLhyphen"/>venant,</hi> which cannot <hi>plead</hi> for it <hi>ſelf:</hi> That it
+<pb n="7" facs="tcp:94741:4"/> has of late contributed to the <hi>happy Reſtau<g ref="char:EOLhyphen"/>ration</hi> of his <hi>Majeſty;</hi> which Aſſertion I thus prove to you: When ſeveral <hi>arguments</hi> were uſed by <hi>Perſons</hi> of <hi>Honour</hi> to many conſider<g ref="char:EOLhyphen"/>able <hi>Citizens</hi> and others, for their endeavours to <hi>reſtore</hi> his <hi>Majeſty,</hi> this at laſt prevailed; That they were <hi>engaged</hi> by their <hi>Covenant</hi> to <hi>reſtore him.</hi> And, Sir, had it been in the <hi>power,</hi> as we hope it was in the <hi>wills,</hi> of the <hi>Engagers</hi> to obſerve their <hi>Covenant,</hi> the laſt <hi>King</hi> had not <hi>ſuffered,</hi> nor his <hi>Family</hi> been <hi>exiled.</hi> Truly, Sir; I ſhould, if I thought I might prevail, <hi>beg</hi> for a <hi>Reprieve</hi> of <hi>Sentence</hi> upon the <hi>poor deſpiſed Cove<g ref="char:EOLhyphen"/>nant,</hi> (or at leaſt, an <hi>honourable Interment,</hi> or <hi>ſi<g ref="char:EOLhyphen"/>lent Burial</hi>) which I can hardly preſume to do againſt the <hi>current ſtream</hi> of the <hi>Houſe.</hi> Upon this conſideration, that I cannot apprehend ſuch a <hi>condemnation</hi> of the <hi>Covenant,</hi> and the <hi>Co<g ref="char:EOLhyphen"/>venant-takers</hi> (which to many may ſeem <hi>harſh,</hi> if not <hi>ſcandalous,</hi> to the <hi>Proteſtant Religion</hi> here and abroad) any way conducing to the <hi>ad<g ref="char:EOLhyphen"/>vantage</hi> of the <hi>King</hi> or his <hi>Subjects;</hi> but, on the other ſide, will much <hi>trouble</hi> and <hi>diſquiet</hi> the <hi>ſpirits</hi> of many <hi>honeſt perſons,</hi> who were very <hi>inſtrumental</hi> in <hi>reſtoring</hi> to his <hi>Rights</hi> our <hi>Gra<g ref="char:EOLhyphen"/>cious
+<pb n="8" facs="tcp:94741:5"/> Soveraign;</hi> whom <hi>God</hi> long, long, long <hi>pre<g ref="char:EOLhyphen"/>ſerve</hi> to <hi>rule</hi> over us, ſo <hi>Excellent</hi> a <hi>Prince,</hi> hard<g ref="char:EOLhyphen"/>ly to be <hi>parallel'd,</hi> never <hi>exceeded</hi> in any <hi>Age,</hi> be<g ref="char:EOLhyphen"/>ing the greateſt <hi>temporal bleſsing</hi> to be <hi>deſired,</hi> and a moſt <hi>excellent effect</hi> of the <hi>Prayers</hi> of <hi>good peo<g ref="char:EOLhyphen"/>ple.</hi> I ſay, Sir, they have much <hi>contributed</hi> to the <hi>Reſtauration</hi> of his <hi>Majeſties Rights,</hi> and to our <hi>Liberties;</hi> I mean, the <hi>Presbyterian Party,</hi> who ought in this reſpect to be <hi>kindly &amp; tenderly dealt with,</hi> as they were <hi>largely</hi> promiſed before the <hi>King's happy return.</hi> Many <hi>thouſands,</hi> of whom, I <hi>charitable</hi> preſume, had very <hi>honeſt intentions</hi> in the <hi>taking</hi> of it, and in their <hi>deſires</hi> of <hi>keeping</hi> it, for the <hi>good</hi> of <hi>King</hi> and <hi>People.</hi> Sir, I crave your pardon for troubling you ſo long; I ſhall now end with a <hi>Quaere</hi> inſtead of a <hi>Motion,</hi> wherein I deſire the <hi>declared ſenſe</hi> of the <hi>Houſe,</hi> Whether the <hi>Covenant</hi> be not <hi>comprehended</hi> in, and ought not to have the <hi>benefit</hi> of the <hi>Act</hi> of <hi>Oblivion;</hi> and if you ſhall pleaſe to put the <hi>Queſtion,</hi> I ſhall give my <hi>Vote</hi> in the <hi>Affirmative.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Upon Wedneſday the Covenant was burnt ac<g ref="char:EOLhyphen"/>cording to the Order of Parliament.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
